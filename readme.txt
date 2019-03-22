@@ -1,5 +1,5 @@
 version control with git
 - Update file to test github2
 - Update file remote githubm
-- test conflict2
+- test conflict
 - this is my life.
